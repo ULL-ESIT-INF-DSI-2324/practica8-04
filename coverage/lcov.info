@@ -1,0 +1,16 @@
+TN:
+SF:dist/basicFunctions.js
+FN:1,add
+FNF:1
+FNH:1
+FNDA:2,add
+DA:1,1
+DA:2,2
+DA:3,2
+LF:3
+LH:3
+BRDA:1,0,0,1
+BRDA:1,1,0,2
+BRF:2
+BRH:2
+end_of_record
